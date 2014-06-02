@@ -1,0 +1,25 @@
+#mainhtml {
+width: 100%;
+}
+
+.section {
+width: 960px;
+background-color:blue;
+}
+
+.sub1 {
+width:950px;
+}
+
+.sub2 {
+width:950px;
+}
+
+.sub3 {
+width:950px;
+}
+
+.sub4 {
+width:950px;
+}
+
